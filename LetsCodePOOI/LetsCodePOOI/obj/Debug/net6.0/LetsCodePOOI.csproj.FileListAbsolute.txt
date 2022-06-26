@@ -1,0 +1,15 @@
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\bin\Debug\net6.0\LetsCodePOOI.exe
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\bin\Debug\net6.0\LetsCodePOOI.deps.json
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\bin\Debug\net6.0\LetsCodePOOI.runtimeconfig.json
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\bin\Debug\net6.0\LetsCodePOOI.dll
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\bin\Debug\net6.0\LetsCodePOOI.pdb
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\LetsCodePOOI.csproj.AssemblyReference.cache
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\LetsCodePOOI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\LetsCodePOOI.AssemblyInfoInputs.cache
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\LetsCodePOOI.AssemblyInfo.cs
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\LetsCodePOOI.csproj.CoreCompileInputs.cache
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\LetsCodePOOI.dll
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\refint\LetsCodePOOI.dll
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\LetsCodePOOI.pdb
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\LetsCodePOOI.genruntimeconfig.cache
+C:\Users\nluba\source\repos\LetsCodePOOI\LetsCodePOOI\LetsCodePOOI\obj\Debug\net6.0\ref\LetsCodePOOI.dll
